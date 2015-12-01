@@ -16,4 +16,4 @@ class Post(models.Model):
 		return self.title
 
 	def foo(self):
-		print("bae")
+		print("bar")
